@@ -46,12 +46,6 @@ Technology leader with 8+ years of experience at the intersection of AI, Blockch
 - 🔧 Maintained multi-chain validator infrastructure with 99.9% uptime
 - 🚀 Orchestrated production-grade blockchain deployments with HA and DR
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surendra-patil&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats">
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with fellow developers and discussing innovative ideas in the AI-Blockchain space. Feel free to reach out!
